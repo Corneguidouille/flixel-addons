@@ -17,5 +17,6 @@ enum FlxShapeType
 	LIGHTNING;
 	LINE;
 	SQUARE_DONUT;
+	POLYGON;
 	UNKNOWN;
 }
